@@ -1,5 +1,5 @@
 var express = require('express'); // We import ExpressJS
- //asd
+
 var app = express(); // This is how we initialize an express app
 var PORT = process.env.PORT || 3000;     // We set the port that the application will use
  
@@ -8,7 +8,7 @@ app.get('/:qwe', function(request, response) {
   var input = request.params.qwe;
   response.send(getTimestampJSON(input))
 });
- //asd
+
 // We set the app to listen on the given PORT
 // It will log a message to the console once it is ready
 app.listen(PORT, function() {
