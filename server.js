@@ -3,7 +3,7 @@ var app = express();
 var PORT = process.env.PORT || 3000;    
 
 app.get('/', function(request, response) {
-    response.send("Welcome to my timestamp microservice app!")
+    response.send("Welcome to my timestamp microservice app! enter a date to convert it to unix time or the other way around")
 });
 
 app.get('/:qwe', function(request, response) {
