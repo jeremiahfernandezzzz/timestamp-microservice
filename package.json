@@ -1,16 +1,42 @@
 {
-  "name": "projects",
+  "name": "timestamp-microservice",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is my submission for freecodecamp back end web development certification's basejump: timestamp microservice",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "jeremiahfernandezzzz",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
     "vim": "^0.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremiahfernandezzzz/timestamp-microservice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeremiahfernandezzzz/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/jeremiahfernandezzzz/timestamp-microservice#readme"
+}de server.js"
+  },
+  "author": "jeremiahfernandezzzz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "vim": "^0.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremiahfernandezzzz/timestamp-microservice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeremiahfernandezzzz/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/jeremiahfernandezzzz/timestamp-microservice#readme"
 }
