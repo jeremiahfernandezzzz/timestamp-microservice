@@ -20,12 +20,19 @@
 # Registers:
 
 # File marks:
-'0  1  111  ~/timestamp-microservice/readme.md
+'0  56  2  ~/server.js
+'1  1  111  ~/timestamp-microservice/readme.md
 
 # Jumplist (newest first):
+-'  56  2  ~/server.js
+-'  1  0  ~/server.js
+-'  1  111  ~/timestamp-microservice/readme.md
 -'  1  111  ~/timestamp-microservice/readme.md
 
 # History of marks within files (newest to oldest):
+
+> ~/server.js
+	"	56	2
 
 > ~/timestamp-microservice/readme.md
 	"	1	111
